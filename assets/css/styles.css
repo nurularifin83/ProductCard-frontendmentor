@@ -1,0 +1,73 @@
+html, body {
+    background-color: hsl(30, 38%, 92%);
+    font-family: 'montserrat', sans-serif;
+}
+
+h1 {
+    font-family: 'Fraunces', serif;
+}
+
+p {
+    font-size: 14px;
+}
+
+.container {
+    padding: 4% 20%;
+}
+
+.card-body {
+    padding: 0 0 0 0;
+}
+
+.row-d-one {
+    border-radius: 0.5rem;
+    background-color: hsl(0, 0%, 100%);
+}
+
+.btn {
+    background-color: hsl(158, 36%, 37%);
+    color: hsl(0, 0%, 100%);
+}
+
+.btn:hover {
+    color: hsl(0, 0%, 100%);
+    background-color: #005555;
+}
+
+.col-img {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.image1 {
+    border-radius: 0.5rem 0 0 0.5rem;
+}
+
+.image2 {
+    display: none;
+}
+
+a{
+    color: #000000;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #005555;
+}
+
+@media only screen and (max-width: 375px) {
+    .image1 {
+        display: none;
+    }
+    .image2 {
+        display: block;
+        border-radius: 0.5rem 0.5rem 0 0;   
+    }
+}
+
+.d-price {
+    font-family: 'Fraunces', serif;
+    color: hsl(158, 36%, 37%);
+    font-size: 2rem;
+}
