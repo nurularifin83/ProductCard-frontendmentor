@@ -39,7 +39,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/responsive-product-preview-card-using-bootstrap-framework-ekFl3lcAF_)
 - Live Site URL: [Live site URL here](https://nurularifin83.github.io/ProductCard-frontendmentor/)
 
 ## My process
