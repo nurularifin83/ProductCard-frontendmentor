@@ -7,23 +7,6 @@ h1 {
     font-family: 'Fraunces', serif;
 }
 
-p {
-    font-size: 14px;
-}
-
-.container {
-    padding: 4% 20%;
-}
-
-.card-body {
-    padding: 0 0 0 0;
-}
-
-.row-d-one {
-    border-radius: 0.5rem;
-    background-color: hsl(0, 0%, 100%);
-}
-
 .btn {
     background-color: hsl(158, 36%, 37%);
     color: hsl(0, 0%, 100%);
@@ -39,11 +22,26 @@ p {
     padding-right: 0;
 }
 
-.image1 {
+.row-d-one {
+    background-color: #ffffff;
+    border-radius: 0.5rem;
+}
+
+.img-one {
     border-radius: 0.5rem 0 0 0.5rem;
 }
 
-.image2 {
+.d-price {
+    font-family: 'Fraunces', serif;
+    color: hsl(158, 36%, 37%);
+    font-size: 2rem;
+}
+
+.image-one {
+    border-radius: 0.5rem 0 0 0.5rem;
+}
+
+.image-two {
     display: none;
 }
 
@@ -57,17 +55,11 @@ a:hover {
 }
 
 @media only screen and (max-width: 375px) {
-    .image1 {
+    .image-one {
         display: none;
     }
-    .image2 {
+    .image-two {
         display: block;
         border-radius: 0.5rem 0.5rem 0 0;   
     }
-}
-
-.d-price {
-    font-family: 'Fraunces', serif;
-    color: hsl(158, 36%, 37%);
-    font-size: 2rem;
 }
