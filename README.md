@@ -63,4 +63,3 @@ To be honest when i built this challenge i have understand about CSS, Bootstrap 
 
 - Website - [Nurul Arifin](https://github.com/nurularifin83)
 - Frontend Mentor - [@nurularifin83](https://www.frontendmentor.io/profile/nurularifin83)
-- Twitter - [@nurularifin803](https://twitter.com/nurularifin803)
